@@ -26,6 +26,7 @@ All the given inputs and coefficients were converted to Binary using Matlab. To 
 An example of a digital filter is a limited Impulse Response filter, which has an impulse response with a limited period. Each output sample in a FIR filter is the weighted sum of its input samples, with the weights being established by the filter coefficients. FIR filters are used for applications requiring accurate signal processing because they have a linear phase response and are intrinsically stable, in contrast to infinite impulse response (IIR) filters. FIR filters are widely used in image processing, biological signal analysis, telecommunications, and audio processing. Because of their finite impulse response feature, which makes them easily implementable with methods like convolution, they are useful tools for a variety of digital signal processing applications.
 
 "output":
+
 ![Image](https://github.com/user-attachments/assets/5e071bc1-7f86-4003-abea-fbfe7221dd9f)
 
 
